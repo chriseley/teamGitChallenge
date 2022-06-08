@@ -1,0 +1,29 @@
+.teamName
+{
+    text-align: center;
+    text-decoration-line: underline;
+    color: white;
+}
+
+.title
+{
+    background-position: 0% 50%;
+    background-image: url(https://lh6.googleusercontent.com/proxy/sX_8pduAuw6ZfBVCiMFgxeNLt2ML3Fl2DVpI2TI6Lm8WqJHeuKeMhawabWGWxAXvr_0ekOKkAKhMXoBSXSGcYEOP0WHlvITKzbFOFvNH_mGngVGeF2ZyL2iZ0VGLHF_CtC_-Q5rNi7tdVFDphjo9M1ZSOQ8pVcTDKt5j-IlxbcHgyqQ=w1200-h630-p-k-no-nu);
+}
+
+h2
+{
+    text-align: center;
+    color: white;
+}
+
+h3
+{
+    text-decoration-line: underline;
+}
+
+.Jolteon
+{
+    height: 200px;
+}
+
